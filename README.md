@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [example.com](example.com)
+- 👨‍💻 All of my projects are available at [My Work](https://shareef-portfolio.vercel.app/project)
 
 - 💬 Ask me about **Frontend Development[React, HTML, Tailwind], Backend Development[Node, MongoDB, SQL]**
 
 - 📫 How to reach me **shareefpmk44@gmail.com**
 
-- 📄 Know about my experiences [example.com](example.com)
+- 📄 [Know about my experiences ](https://shareef-portfolio.vercel.app/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
