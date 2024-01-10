@@ -1,6 +1,6 @@
 [![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hello World!👋 The Name's SHAREEF!</h1>
-<h3 align="center">I'm a passionate MERN stack developer with a love for innovation and creativity, from India.</h3>
+<h3 align="center">I'm a passionate Co-Founder, Product Manager, and MERN stack developer with a love for innovation and creativity, from India.</h3>
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha43f&label=Profile%20views&color=0e75b6&style=flat" alt="sha43f" /> </p>
 
