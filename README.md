@@ -3,8 +3,6 @@
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha43f&label=Profile%20views&color=0e75b6&style=flat" alt="sha43f" /> </p>
 
-- 🔭 Look out my recent project [Converse](https://group-chat-9850f.web.app)
-
 - 👨‍💻 All of my projects are available at [My Work](https://shareef-portfolio.vercel.app/project)
 
 - 💬 Ask me about **Product Management || Frontend Development || Backend Development**
