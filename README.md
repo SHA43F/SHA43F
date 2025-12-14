@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!👋 The Name's SHAREEF!</h1>
-<h3 align="center">I'm a passionate Co-Founder, Product Manager, and MERN stack developer with a love for innovation and creativity, from India.</h3>
+<h3 align="center">I'm a Product Manager, Co-Founder and developer with a love for innovation and creativity, from India.</h3>
 <img align="right" width="400" alt="Coding" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha43f&label=Profile%20views&color=0e75b6&style=flat" alt="sha43f" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Product Management || Frontend Development || Backend Development**
 
-- 📫 How to reach me **shareefpmk44@gmail.com**
+- 📫 How to reach me **pm.khwajashareef@gmail.com**
 
 - 📄 [Know about my experiences ](https://shareef-portfolio.vercel.app/about)
 
